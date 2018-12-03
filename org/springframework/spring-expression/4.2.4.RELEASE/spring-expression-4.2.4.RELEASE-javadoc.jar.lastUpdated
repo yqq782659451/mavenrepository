@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 13 17:01:20 CST 2018
+09d982e5b94dfb61c9f162ebed8644b6a8739a30@proxy.host.net\:80>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1542099680610
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:javadoc\:4.2.4.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: proxy.host.net
